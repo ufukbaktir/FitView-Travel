@@ -21,9 +21,7 @@
           Show Time
         </button>
       </div>
-      <ul>
-        <!-- your buttons -->
-      </ul>
+      <ul></ul>
       <ul>
         <h1><font-awesome-icon :icon="['far', 'shoe-prints']" /></h1>
         <li class="var1">
@@ -39,7 +37,6 @@
           </div>
         </li>
 
-        <!-- add 2 next to showPopup to change the postion of the popup (showPopup2) -->
         <li class="var2">
           <button id="btn2" type="button" class="btn btn-info neon2">
             Calories Burned
