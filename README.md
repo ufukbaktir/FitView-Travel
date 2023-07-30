@@ -39,11 +39,11 @@ Sude Önder: Real-Time Data Functions, Maps API
 
 ## How To Use ?
 Use these commands to install modules and run:
-
+```sh
 npm install
 
 npm run dev
-
+```
 ! Keep in mind that you will need an API Key from Google Cloud Platform. After you setup a project in Google Cloud Console, you can create ".env" file that will encapsulate the API Key. !
 
 ## To do List
