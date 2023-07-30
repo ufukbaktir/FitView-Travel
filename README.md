@@ -44,6 +44,8 @@ Sude Önder: Real-Time Data Functions, Maps API
 
 •	Progress will be made on StreetView by taking real-time step data.
 
-•	New data to be received in real time will be added.
+•	Activity done in the app should be saved into Google Fit.
+
+•	New data to be received in real time should be added.
 
 
