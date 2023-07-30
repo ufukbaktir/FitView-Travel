@@ -22,6 +22,9 @@
 
 9.	miband-heartrate app by Eryux : https://github.com/Eryux/miband-heartrate | Real Time Heart Rate Data Access
 
+## How It Works ?
+<img src="ft-sequence.png" width="600"/>
+
 ## Project Members | Scope
 
 Ali Ufuk Baktır (Project Leader): Project Setup, API Integration, Google Auth, Fitness API, Real Time Heart Rate Data, Recent Activity Profile Page
