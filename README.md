@@ -31,11 +31,20 @@ Ali Ufuk Baktır (Project Leader): Project Setup, API Integration, Google Auth, 
 
 Rami Alzytawi: Maps API and MiniMap Integration
 
-Ayça Yıldız: StreetView Interface Design
+Ayça Yıldız: StreetView Bike Interface Design
 
 Melisa Karadağ: Real-Time Data Functions, Maps API
 
 Sude Önder: Real-Time Data Functions, Maps API
+
+## How To Use ?
+Use these commands to install modules and run:
+
+npm install
+
+npm run dev
+
+! Keep in mind that you will need an API Key from Google Cloud Platform. After you setup a project in Google Cloud Console, you can create ".env" file that will encapsulate the API Key. !
 
 ## To do List
 •	Specific navigable route options need to be added.
